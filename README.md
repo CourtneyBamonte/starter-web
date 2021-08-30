@@ -22,6 +22,8 @@ dee doog
 
 contributions
 
+Please fork this repo and issue pull
+
 ### Copyright
 
 Git.Training
