@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Courtney Bamotne    courtney@git.stuff  @sweetcb
 
 # THANKS
 
