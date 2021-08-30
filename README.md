@@ -22,3 +22,7 @@ dee doog
 
 contributions
 
+### Copyright
+
+Git.Training
+
