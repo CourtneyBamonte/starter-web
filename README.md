@@ -9,8 +9,11 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+Filling in the introduction section!
+
 ## Purpose
 
+Propose porpoise
 
 ## Deployment
 
